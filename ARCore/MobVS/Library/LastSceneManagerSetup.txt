@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SimpleARCaptionGenerator/Scenes/CaptionGenerator.unity
+  isLoaded: 1
+  isActive: 1
